@@ -63,7 +63,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's **sales p
 ---
 
 
-**Deeksha Singh**  
+** Made by Deeksha Singh**  
 Email: deeksha25022004@gmail.com  
 Created: May 2025
 
