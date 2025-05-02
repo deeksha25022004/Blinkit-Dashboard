@@ -27,7 +27,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's **sales p
 
 ## 🧾 Dataset Description
 - Dataset Used : Cleaned Blinkit Grocery Dataset 
-- Raw Dataset : Blinkit Grocery data
+- Raw Dataset : BlinkIT Grocery data
 
 | Column Name                  | Description                                      |
 |-----------------------------|--------------------------------------------------|
